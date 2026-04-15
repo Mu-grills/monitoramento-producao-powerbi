@@ -1,4 +1,5 @@
 📊 Dashboard de Performance Industrial
+
 Descrição:
 Este projeto consiste em um dashboard interativo desenvolvido no Power BI para monitoramento de indicadores de produção em tempo real. O foco principal é a análise de eficiência através de métricas de Disponibilidade, Qualidade e Produtividade.
 
