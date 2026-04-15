@@ -1,20 +1,36 @@
-📊 Dashboard de Performance Industrial
+📊 Dashboard de Produção Industrial
 
-Descrição:
-Este projeto consiste em um dashboard interativo desenvolvido no Power BI para monitoramento de indicadores de produção em tempo real. O foco principal é a análise de eficiência através de métricas de Disponibilidade, Qualidade e Produtividade.
+![Visualização do Dashboard](assets/PrintDash.png)
 
-Recursos Principais:
+O Projeto
+Painel interativo desenvolvido no Power BI para monitoramento de KPIs operacionais em tempo real, focado em eficiência e controle de perdas.
 
-KPIs de Topo: Total Aprovado, Rejeitado e Horas Produtivas vs. Perdidas.
+📌 Indicadores Monitorados
+Eficiência: Percentual de Qualidade e Disponibilidade.
 
-Análise Temporal: Gráfico de linha mostrando a evolução do "Total Produzido por Mês".
+Produtividade: Total Aprovado vs. Total Rejeitado.
 
-Indicadores de Gauge: Visualização rápida do Percentual de Qualidade e Disponibilidade.
+Gargalos: Comparativo de Horas Produtivas vs. Horas Perdidas.
 
-Tecnologias Utilizadas:
+Tendência: Evolução mensal do volume produzido.
 
-Power BI: Construção dos visuais e tratamento de dados.
+🛠️ Tecnologias e Ferramentas
+Ferramenta: Power BI Desktop.
 
-DAX: Criação de medidas personalizadas para os indicadores.
+Linguagem: DAX (Medidas de desempenho).
 
-UI Design: Layout customizado com temática Dark Mode e detalhes em tom cobre/ouro rosa para melhor contraste e experiência do usuário.
+Data Prep: Power Query (ETL).
+
+UI Design: Layout personalizado em Dark Mode.
+
+🚀 Como visualizar
+Baixe o arquivo na pasta /pbix.
+
+Abra no Power BI Desktop.
+
+Utilize os filtros de Operador e Mês no canto superior direito para interagir.
+
+🤝 Contato
+LinkedIn: https://www.linkedin.com/in/murillo-marins-200316253/
+
+GitHub: https://github.com/Mu-grills/Mu-grills
